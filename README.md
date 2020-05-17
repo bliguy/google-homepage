@@ -1,4 +1,4 @@
-This is the first project that I've ever done!
+This is the first project that I've ever done!<br>
 I did a small project for freecodecamp.org, but this is my first start-to-finish project.
 Assignment is to build the Google.com homepage.  (Just the simple version with the search box)
 Skills that I'll be demonstrating upon completion:
